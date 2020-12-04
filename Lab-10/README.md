@@ -33,11 +33,11 @@ So if you have a medium to large scale codebase like xv6, where would you first 
 
 **Discuss with your teammate:** *List five programs you observe with your partner that look familiar from Unix*
 
-1. *program here*
-2. *program here*
-3. *program here*
-4. *program here*
-5. *program here*
+1. cat
+2. echo
+3. mkdir
+4. rm
+5. ls
 
 # Part 3 - Extending xv6
 
