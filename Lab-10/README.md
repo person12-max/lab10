@@ -93,9 +93,9 @@ int main(int argc, char *argv[]){
 
 **Discuss with your teammate:** 
 
-- *In a sentence, what does types.h contain?*
-- *In a sentence, what does stat.h contain?*
-- *In a sentence, what does user.h contain? List some functions that you have used before*
+- types.h contains 4 typedef ( unsigned int uint, unsigned short ushort, unsigned char uchar, uint pde_t)
+- stats.h contains a “stat” struct that defines a type that can hold the type of file, the file systems disk device, the node number, the number of links to the file, and the size of the file
+- user.h contains system calls and functions from ulib.c
 
 # Part 5 - Implementing a System Call (Extending xv6 further).
 
